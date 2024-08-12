@@ -17,6 +17,8 @@ namespace ConsoleApp1
             }
         }
 
+
+
         //public static void ProcessEmployee(PartTimeEmployee employee)
         //{
         //    if (employee != null)
